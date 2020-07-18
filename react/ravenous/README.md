@@ -1,3 +1,5 @@
+﻿Ravenous project was created for USA-users for founding restaurants using an Yelp API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
